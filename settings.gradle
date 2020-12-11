@@ -1,0 +1,2 @@
+rootProject.name='Student Portal New Ver'
+include ':app'
